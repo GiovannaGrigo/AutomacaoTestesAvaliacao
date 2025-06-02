@@ -1,0 +1,14 @@
+
+
+- Copiar a pasta "10 Exercícios" para o seu computador local.
+- Implementar todos os testes necessários para cobrir 100% das funcionalidades de ambos  
+  os projetos.
+- Ao final:
+	- Apagar as pastas "bin" e "Obj" de dentro das pastas dos projetos originais
+	- Apagar as pastas "bin" e "Obj" de dentro das pastas dos projetos de testes
+	- Compactar os arquivos em formato .zip ou colocar em um repositório github
+	- Enviar a pasta compactada ou link do repositório para
+
+   	  sergio.lacerda01@etec.sp.gov.br
+
+	**** NÃO ESQUEÇA DE COLOCAR O NOME DA DUPLA NO E-MAIL ****
