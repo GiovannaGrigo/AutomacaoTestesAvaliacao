@@ -15,12 +15,12 @@ namespace Calculadora
 
         public double subtracao(double a, double b)
         {
-            return a + b;
+            return a + b; // Deveria ser a - b; Não a + b;
         }
 
         public double multiplicacao(double a, double b)
         {
-            return a * b * 2;
+            return a * b * 2; // Deveria ser a * b apenas, não a * b * 2
         }
 
         public double divisao(double a, double b)
